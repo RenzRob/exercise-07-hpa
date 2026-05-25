@@ -1,4 +1,4 @@
-# Exercise 07 — Kubernetes HPA + Load Testing
+# Exercise 07 — Kubernetes HPA + Load testing
 
 > **Distributed Systems & Parallel Programming — UNLu 2026**
 >
