@@ -1,0 +1,25 @@
+k8s/deployment.yml
+  s_6b582b379f75ef::t_31c9e78c207f94 1-43
+k8s/service.yml
+  s_6b582b379f75ef::t_8a439b7e35539a 1-14
+loadtest/locustfile.py
+  s_6b582b379f75ef::t_c82b938eb1a7b2 1-43
+k8s/hpa.yml
+  s_6b582b379f75ef::t_50206d6df2752c 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "35755fcbb1ebbd14f027d1768a0ba661d2b3474e",
+  "prompts": {},
+  "sessions": {
+    "s_6b582b379f75ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8b61752c-9858-4509-bef2-056c36bfc0a1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  }
+}
